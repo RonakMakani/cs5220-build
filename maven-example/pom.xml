@@ -1,0 +1,7 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>edu.calstatela.cs520</groupId>
+    <artifactId>maven-example</artifactId>
+    <version>1.0</version>
+</project>
+
