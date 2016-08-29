@@ -1,0 +1,18 @@
+# Object files and libraries
+*.o
+*.a
+*.so
+
+# Class files and libraries (Ant)
+classes/
+*.jar
+
+# Directories for generated files (Maven)
+target/
+test-output/
+
+# Eclipse files and directories
+.project
+.classpath
+.settings/
+
